@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Web Hosting For Dummies
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This document will help you learn and guide you with issues that can happen within web hosting particularly pertaining to Unlimited Web Hosting: Web, Reseller, VPS & Domains, it covers isues with the following...
 
 .. note::
 
@@ -15,7 +9,14 @@ how to :ref:`installation` the project.
 
 Contents
 --------
-
+FFMPEG
+Updraft plugin
+Remote SQL
+NextJS
+NodeJs
+NextCloud
+SSH
+SFTP
 .. toctree::
 
    usage
