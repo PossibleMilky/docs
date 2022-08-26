@@ -5,10 +5,6 @@ This document will help you learn and guide you with issues that can happen with
 
 .. note::
 
-   This project is under active development.
-
-Contents
---------
 FFMPEG
 Updraft plugin
 Remote SQL
@@ -17,6 +13,9 @@ NodeJs
 NextCloud
 SSH
 SFTP
+
+Contents
+--------
 .. toctree::
 
    usage
